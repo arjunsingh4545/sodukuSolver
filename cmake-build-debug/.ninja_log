@@ -1,0 +1,6 @@
+# ninja log v5
+1	757	7596065051667619	CMakeFiles/sodukuSolver.dir/main.cpp.obj	d54f88b3094f0789
+5	550	7596065315623352	CMakeFiles/sodukuSolver.dir/soduku.cpp.obj	22ff64c909fd7053
+552	811	7596065318216758	sodukuSolver.exe	b2351a4dd4103991
+3	647	7596065489847794	CMakeFiles/sodukuSolver.dir/main.cpp.obj	d54f88b3094f0789
+649	828	7596065491613096	sodukuSolver.exe	b2351a4dd4103991
